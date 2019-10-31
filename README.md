@@ -1,0 +1,1 @@
+This project looks into the particularities with the usage of the English language amongst members of the Do By Friday community.  The analyses are based on message history of public channels.
